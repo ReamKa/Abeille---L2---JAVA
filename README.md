@@ -9,4 +9,3 @@ La javadoc est presente ainsi que les commentaires dans chaque fichier .java
 
 Faites vous plaisir pour vous en inspirer -ou recopier, c'est vous et votre conscience-.
 
-Note reçue : 20/20.
