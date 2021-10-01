@@ -1,4 +1,4 @@
-# Abeille---L2---JAVA
+# Abeille-L2-JAVA
 
 C'est un examen de projet que j'ai codé en L2 pour la classe de Vincent Guigue.
 Le theme etait libre mais avec certaines contraintes.
